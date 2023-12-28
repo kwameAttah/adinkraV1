@@ -1,0 +1,25 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "circleCategory"
+    },
+    {
+      "layout": "bannerHigh",
+      "tag": 273
+    },
+ 
+    {
+      "name": "featureProducts",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 21
+    },
+    {
+      "name": "bagsCollections",
+      "image": "",
+      "layout": "twoColumn",
+      "category": 23
+    }
+  ],
+  "MainColor": "#3FC1BE"
+}
